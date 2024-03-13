@@ -1,1 +1,0 @@
-# gikyon.github.io
