@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: url("/images/jordans.png") no-repeat, linear-gradient(rgba(0, 0, 0, 0.619), purple);
+		background: url("/images/jordans.png") no-repeat, linear-gradient(rgba(0, 0, 0, 0.619), black 15%);
 		background-size: contain;
 		background-blend-mode: multiply;
 	}
